@@ -17,7 +17,7 @@ Solve as many or as few problems as you can during these times. Please work at y
 
 ## Documentation and "Hunting"
 
-The main source of information is the [Julia Documentation](http://docs.julialang.org/en/latest/manual/). Julia also provides lots of built-in documentation and ways to find out what's going on. The number of tools for "hunting down what's going on / available" is too numerous to explain in full detail here, so instead this will just touch on what's important. For example, the ? gets you to the documentation for a type, function, etc.
+The main source of information is the [Julia Documentation](http://docs.julialang.org/en/latest/). Julia also provides lots of built-in documentation and ways to find out what's going on. The number of tools for "hunting down what's going on / available" is too numerous to explain in full detail here, so instead this will just touch on what's important. For example, the ? gets you to the documentation for a type, function, etc.
 
 
 ```julia
@@ -817,7 +817,7 @@ mutable struct Student <: Person
 end
 ```
 
-You can define type heirarchies on abstract types. See the beautiful explanation at: http://docs.julialang.org/en/release-0.5/manual/types/#abstract-types
+You can define type hierarchies on abstract types. See the beautiful explanation at: http://docs.julialang.org/en/release-0.5/manual/types/#abstract-types
 
 
 ```julia
